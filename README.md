@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm **Alessia Berarducci** – a Data Scientist. 
+I'm **Alessia Berarducci** – a Statistician, Researcher & Data Scientist.
 
 ---
 
